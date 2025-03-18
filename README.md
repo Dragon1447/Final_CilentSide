@@ -9,3 +9,5 @@ Tutor
  pnpm dev
 
  https://www.w3schools.com/graphics/game_intro.asp
+
+https://nextjs.org/docs/app/building-your-application/deploying
